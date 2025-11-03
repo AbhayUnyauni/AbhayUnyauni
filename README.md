@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://x.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhay_unyauni" height="30" width="40" /></a>
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhay_unyauni" height="30" width="40" /></a>
-<a href="(https://www.linkedin.com/in/abhay-unyauni/" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="abhay_unyauni" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhay-unyauni/" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="abhay_unyauni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Me on GitHub :</h3>
